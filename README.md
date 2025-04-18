@@ -1,8 +1,8 @@
 #  Functional Connectivity Analysis of fMRI Data (Single Subject)
 
-This project is a step-by-step walkthrough of how I analyzed a single-subject fMRI dataset to compute **ROI-based and network-based functional connectivity**. It documents the full analysis pipeline — from preprocessed BOLD data to time series extraction, connectivity matrices, and visual interpretation.
+This project is a step-by-step walkthrough of how I analyzed a single-subject fMRI dataset to compute **ROI-based and network-based functional connectivity**. It documents the full analysis pipeline — from preprocessed BOLD data to time series extraction, connectivity matrices, and visual interpretation. I have uploaded both PDF and .ipynb versions since rendering .ipynb here could be demanding if you are not running it locally. You can view it as PDF file here.
 
->  This notebook was part of my personal learning journey to understand how brain regions interact functionally using real fMRI data. I have uploaded both PDF and .ipynb versions since rendering .ipynb here could be demanding if you are not running it locally. You can view it as PDF file here.
+>  This notebook was part of my personal learning journey to understand how brain regions interact functionally using real fMRI data.
 
 
 ## Dataset Description
